@@ -1,0 +1,9 @@
+# Security
+*.pem
+.env
+
+# Dependencies
+node_modules/
+
+# OS Junk
+.DS_Store
